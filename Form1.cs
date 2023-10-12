@@ -117,7 +117,6 @@ namespace WindowsFormsApp1
 
             }
         }
-
         private void Save_Click(object sender, EventArgs e)
         {
             string path = "Calculator.txt";
